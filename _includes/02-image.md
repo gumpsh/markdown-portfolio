@@ -1,1 +1,1 @@
-![Grey sand]("C:\Users\44791\Pictures\Saved Pictures\greysand.png")
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
