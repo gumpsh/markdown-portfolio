@@ -1,4 +1,4 @@
-* A few things I like:
+### A few things I like:
   * 🐶 Animals.
   * 🍛 Food.
   * 👪 Family and friends.
